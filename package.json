@@ -1,0 +1,11 @@
+{
+  "name": "theroom.task.executor",
+  "version": "0.1.0",
+  "description": "the room nodejs client (for tasks)",
+  "main": "index.js",
+  "author": "Alexey P Nikitin",
+  "license": "MIT",
+  "dependencies": {
+    "theroom.sdk": "https://github.com/entcor/theroom.sdk.git"
+  }
+}
